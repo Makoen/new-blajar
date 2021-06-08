@@ -1,0 +1,21 @@
+﻿REPOST/ UPLOAD ULANG GUE SUMPAHIN
+MANDUL 7 TURUNAN
+
+
+
+сага mеnggυnаkаn Spam SmS termux?
+SеЬеӏυm аnԁа mеmаѕаng/install арӏіkаѕі termux, kаӏіаn јυgа bisa іnѕtаӏӏ diSini, jika Sudah mаkа mari Simak tutorial іnі.
+
+pkg update && pkg upgrade
+
+pkg install python
+
+pkg install git
+
+git clone https://github.com/KANG-NEWBIE/dokOTP
+
+cd dokOTP
+
+pip install bs4 requests
+
+python halodoc.py
